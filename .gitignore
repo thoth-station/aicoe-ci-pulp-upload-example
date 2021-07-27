@@ -1,0 +1,9 @@
+.coverage
+.pytest_cache
+.eggs/
+.vscode/
+dist/
+build/
+.env
+.lock
+__pycache__
