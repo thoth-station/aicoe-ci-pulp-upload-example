@@ -1,6 +1,6 @@
 check: []
 package-upload:
   - instance: pulp
-    pulp-index: fpokorny-thoth
+    pulp-index: test
     allow-sdist: true
     allow-bdist: true
