@@ -8,3 +8,7 @@
 ### Features
 * Make Pulp index name generic
 * Document release process
+
+## Release 0.0.3 (2021-08-02T12:50:58)
+### Bug Fixes
+* :fire: fix the restructured text in setup.py
