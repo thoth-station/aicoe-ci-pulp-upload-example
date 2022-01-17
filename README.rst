@@ -2,7 +2,8 @@ aicoe-hello-world
 -----------------
 
 A small example demonstrating Python package releases uploaded using AICoE-CI
-to Operate First Pulp instance.
+to `Operate First Pulp instance
+<https://www.operate-first.cloud/community-handbook/pulp/usage.md>`__.
 
 How To
 ======
